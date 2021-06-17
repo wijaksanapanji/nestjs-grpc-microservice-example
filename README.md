@@ -18,7 +18,7 @@ An example of simple microservice with [nestjs](https://docs.nestjs.com/) using 
 
 5. open another terminal window and change into `gateway` directory
 6. run `npm install` and then `npm run start:dev`
-7. Open your browser go to `http://localhost:3000/hero` to list of heroes or `http://localhost:3000/1` to see hero with id of `1`
+7. Open your browser go to `http://localhost:3000/hero` to see list of heroes or `http://localhost:3000/hero/1` to see hero with id of `1`, you may change the number `1` into other number, there is currently 3 hero in the list. 
 
 ## Directory structure
 
